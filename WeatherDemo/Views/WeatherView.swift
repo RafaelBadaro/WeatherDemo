@@ -64,7 +64,7 @@ struct WeatherView: View {
             
             VStack{
                 Spacer()
-                
+                // Test
                 VStack (alignment: .leading, spacing: 20){
                      Text("Weather now")
                         .bold().padding(.bottom)
